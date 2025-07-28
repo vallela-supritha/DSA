@@ -1,0 +1,10 @@
+Day 3: Arrays - Sliding Window 
+ 
+• Goal: Master fixed and variable size sliding window. 
+• Problems: 
+o Maximum Subarray (Kadane’s Algo) 
+https://leetcode.com/problems/maximum-subarray/ 
+o Longest Substring Without Repeating Characters 
+https://leetcode.com/problems/longest-substring-without-repeating
+characters/ 
+• Concepts Covered: Optimizing brute-force with window compression.
