@@ -1,0 +1,9 @@
+Day 2: Arrays – Basics 
+ 
+• Goal: Learn array declaration, traversal, and simple problems. 
+• Problems: 
+o Two Sum 
+https://leetcode.com/problems/two-sum/ 
+o Best Time to Buy and Sell Stock 
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ 
+• Concepts Covered: Brute-force vs Hashmap approach, Greedy logic.
