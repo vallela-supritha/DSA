@@ -1,0 +1,10 @@
+ Day 4: Arrays - Prefix Sum 
+ 
+• Goal: Learn cumulative sum techniques for range queries. 
+• Problems: 
+o Range Sum Query - Immutable 
+https://leetcode.com/problems/range-sum-query-immutable/ 
+o Subarray Sum Equals K 
+https://leetcode.com/problems/subarray-sum-equals-k/ 
+• Concepts Covered: Storing previous sums, Hashmap optimization. 
+ 
