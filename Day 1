@@ -1,0 +1,11 @@
+Day 1: Time & Space Complexity 
+ 
+• Goal: Learn Big-O, Big-Ω, Big-Θ notations. 
+• Key Concepts: Worst, Best, and Average Case Time; Space complexity of recursive & 
+iterative code. 
+• Reference Material: 
+o Read: https://www.geeksforgeeks.org/analysis-of-algorithms-set-1
+asymptotic-analysis/ 
+• Practice (Understanding Only): 
+o https://leetcode.com/discuss/general-discussion/1127238/time-complexity
+of-leetcode-problems
